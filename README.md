@@ -1,0 +1,10 @@
+GPA CALCULATOR PRO - FOT is a specialized Android application tailored for the students of the Faculty of Technology at the University of Sri Jayewardenepura. With a focus on simplicity and efficiency, this app allows users to effortlessly manage and calculate their Grade Point Average (GPA) within a single, user-friendly interface.
+Key Features:
+* Multiple Student Accounts: Students can create and manage multiple accounts, each associated with their specific department. This feature ensures a personalized experience for every user.
+* Semester Management: The app facilitates the addition of semesters, allowing students to organize their academic history. This feature is particularly useful for tracking progress over time.
+* Module Integration: No need to manually input course information. The app comes pre-loaded with existing courses for each department, streamlining the process of adding modules to semesters.
+* Effortless GPA Calculation: Users can easily calculate the GPA for each semester and receive accurate results. The app considers the weighted average of grades, providing a comprehensive overview of academic performance.
+* Overall GPA Calculation: Beyond individual semesters, the app computes the overall GPA, giving students a holistic view of their academic standing throughout their university journey.
+GPA CALCULATOR PRO - FOT eliminates the hassle of manual calculations and provides a convenient solution for students to monitor their academic achievements. It is designed to save time and effort, allowing users to focus more on their studies and less on administrative tasks.
+Whether you're a freshman navigating your first semester or a senior reviewing your academic journey, this app is a valuable companion for tracking and understanding your GPA. It empowers students with the tools they need to stay organized, set goals, and make informed decisions about their academic progress.
+Download GPA CALCULATOR PRO - FOT now and take control of your academic success at the Faculty of Technology, University of Sri Jayewardenepura.
